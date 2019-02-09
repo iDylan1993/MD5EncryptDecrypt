@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MD5EncryptDecrypt", "MD5EncryptDecrypt\MD5EncryptDecrypt.csproj", "{533776F2-BD76-4CBD-9AE7-B62D4393C032}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{533776F2-BD76-4CBD-9AE7-B62D4393C032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{533776F2-BD76-4CBD-9AE7-B62D4393C032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{533776F2-BD76-4CBD-9AE7-B62D4393C032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{533776F2-BD76-4CBD-9AE7-B62D4393C032}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54C904EB-BB02-41B2-9CD7-58209ADD16F8}
+	EndGlobalSection
+EndGlobal
